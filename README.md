@@ -43,9 +43,10 @@ cd wp-challenge-frontend
 
 
 # ¿Cómo modificar el contenido desde WordPress?
+
 Ingresá al panel de WordPress (/wp-admin).
 
-#Para cambiar el banner:
+# Para cambiar el banner:
 
 Editá la página con el slug inicio.
 
