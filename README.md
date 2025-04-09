@@ -17,7 +17,7 @@ Este proyecto es parte de una prueba técnica. El objetivo es construir un front
 
 1. Cloná el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/wp-challenge-frontend.git
+git clone https://github.com/FaQn2/wp-challenge-frontend.git
 cd wp-challenge-frontend 
 ```
 2. npm install  
@@ -69,4 +69,7 @@ Se priorizó una arquitectura simple pero modular, con componentes reutilizables
 
 
 Autor: Facundo Tagliavini y su mate.
+
+## 🎥 Preview
+![Demo](https://drive.google.com/file/d/10OHTHAgo5KoFQ0liPrUHVQfQ-NDVA18D/view?usp=sharing)
 
