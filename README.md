@@ -71,5 +71,5 @@ Se priorizó una arquitectura simple pero modular, con componentes reutilizables
 Autor: Facundo Tagliavini y su mate.
 
 ## 🎥 Preview
-![Demo](https://drive.google.com/file/d/10OHTHAgo5KoFQ0liPrUHVQfQ-NDVA18D/view?usp=sharing)
+![Demo](public/preview.png)
 
